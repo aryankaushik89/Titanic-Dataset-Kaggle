@@ -1,5 +1,5 @@
 ---
-title: "Exploring titanic Dataset from Kaggle Conpetition""
+title: "Exploring titanic Dataset from Kaggle Competition""
 ---
 
 ## Getting the Titanic Data
